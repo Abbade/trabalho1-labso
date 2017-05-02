@@ -1,0 +1,12 @@
+instrucoes.txt
+log
+log.txt
+log.txt,cat
+abbade14
+abbade1.txt
+abbade2.txt
+abbade3.txt
+pasta1
+pasta2
+pasta3
+trab1-2017.txt
